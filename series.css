@@ -1,0 +1,58 @@
+header{
+    background-size: cover;
+    height: 450px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url(https://avatars.mds.yandex.net/i?id=1936f662f54cac67fa7a0ba1964cba185bd98aa9-9244694-images-thumbs&n=13);
+}
+.logo{
+    color: darkblue;
+    font-size: 34px;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+    margin:10px;
+}
+nav{
+    background-color: purple;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+}
+h2{
+    text-align: center;
+    border: 4PX BLACK solid;
+    color: darkblue;
+}
+
+.logo:hover{
+    color: purple;
+    
+}
+h2:hover{
+   color:purple;
+    
+} 
+.NEGR{
+    font-size: 20PX;
+    color: darkred;
+}
+p{
+    font-size: 25PX;
+    text-align: center;
+    background-color:blue;
+    color: white;
+}
+ body{ 
+    background-color: green;
+
+}
+.center-img{
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
